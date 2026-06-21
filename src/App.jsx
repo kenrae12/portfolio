@@ -194,10 +194,7 @@ export default function App() {
             </h1>
             <h2 className="hero-role">Full-Stack Developer & IT Graduate</h2>
             <p className="hero-desc">
-              BS Information Technology graduate from Bulacan State University
-              with experience in web systems, mobile apps, and SAP ABAP
-              development. I build clean, functional software that solves real
-              problems.
+              BS Information Technology graduate from Bulacan State University with practical experience in full-stack web development, mobile application development. Proficient in React, JavaScript, TypeScript, PHP, MySQL, HTML, and CSS, with the ability to design and develop complete web applications from frontend interfaces to backend systems. Passionate about continuous learning, writing clean code, and building software that delivers real-world value.
             </p>
             <div className="hero-btns">
               <button
