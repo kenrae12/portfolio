@@ -91,7 +91,6 @@ export default function App() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [visible, setVisible] = useState({});
   const sectionRefs = useRef({});
-  const cvHref = `${import.meta.env.BASE_URL}kenrae-cv.pdf`;
 
   useEffect(() => {
     const observers = {};
@@ -310,7 +309,7 @@ export default function App() {
                 </div>
               ))}
               <a
-                href={cvHref}
+                href="/kenrae-cv.pdf"
                 download
                 className="btn-primary"
                 style={{
