@@ -309,7 +309,7 @@ export default function App() {
                 </div>
               ))}
               <a
-                href="/kenrae-cv.pdf"
+                href="/Kenrae-CV.pdf"
                 download
                 className="btn-primary"
                 style={{
