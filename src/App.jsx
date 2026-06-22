@@ -209,7 +209,7 @@ export default function App() {
             </div>
             <div className="socials">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/kenrae-peroche-b595a136b"
                 className="social-icon"
                 target="_blank"
                 rel="noreferrer"
@@ -217,7 +217,7 @@ export default function App() {
                 in
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/kenrae12"
                 className="social-icon"
                 target="_blank"
                 rel="noreferrer"
