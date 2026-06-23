@@ -15,7 +15,7 @@ const SKILLS = {
   Backend: ["PHP", "Python", "Java", "ABAP"],
   Mobile: ["C#", "JavaScript"],
   Database: ["MySQL"],
-  Tools: ["Git", "GitHub", "Power BI", "Visual Studio Code", "Unity"],
+  Tools: ["Git", "GitHub", "Power BI", "Visual Studio Code", "Unity", "Microsoft Word", "Microsoft Exel"],
 };
 
 const PROJECTS = [
@@ -310,7 +310,7 @@ export default function App() {
                 </div>
               ))}
               <a
-                href="/Kenrae-CV.pdf"
+                href="/kenrae-ats.pdf"
                 download
                 className="btn-primary"
                 style={{
