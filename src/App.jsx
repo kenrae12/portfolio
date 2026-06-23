@@ -11,10 +11,11 @@ const NAV_LINKS = [
 ];
 
 const SKILLS = {
-  Frontend: ["HTML", "CSS", "JavaScript", "React.js"],
+  Frontend: ["HTML", "CSS", "JavaScript", "React.js", "TypeScript"],
   Backend: ["PHP", "Python", "Java", "ABAP"],
   Mobile: ["C#", "JavaScript"],
   Database: ["MySQL"],
+  Tools: ["Git", "GitHub", "Power BI", "Visual Studio Code", "Unity"],
 };
 
 const PROJECTS = [
